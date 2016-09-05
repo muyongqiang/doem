@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="2600"
+    android:fromAlpha="0.1"
+    android:toAlpha="1.0">
+    <!--
+    android:duration="2600" 时间
+    android:fromAlpha="0.1" 开始
+    android:toAlpha="1.0" 结束
+    -->
+</alpha>
